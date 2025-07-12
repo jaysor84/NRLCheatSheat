@@ -1,6 +1,300 @@
 [
     {
-         "match_details": {
+        "match_details": {
+            "Home Team": "Newcastle Knights",
+            "Away Team": "Melbourne Storm",
+            "date of match": "2025-07-12"
+        },
+        "predictions": [
+            {
+                "prediction_item": "1st Most Likely Try Scorer",
+                "result": "Dominic Young",
+                "reasoning": "Based on the provided information, Dominic Young is the most likely first try scorer for the Newcastle Knights vs Melbourne Storm match.  My reasoning is as follows:\n\n* **Exceptional Home Record:** Source [3] highlights that Dominic Young has scored 24 tries in his last 24 games at McDonald Jones Stadium, which is where this match is being played. This demonstrates an incredibly strong scoring record in this specific venue.  This significantly increases his likelihood of scoring first.\n\n* **Recent Form (Implied):** While specific try-scoring statistics for the last five games aren't consistently detailed across all sources, the high odds offered by various bookmakers (Sources [2], [4], [11]) for Young to score a try indicate that he's generally considered a strong try-scoring threat. Combined with his exceptional home record, this adds further weight to the prediction.\n\n* **Team Lineup:**  Sources [1, 3, 5, 8] consistently list Dominic Young as a starting winger for the Newcastle Knights.  His starting position provides him with ample opportunities to score early in the game.\n\nWhile other players, such as Bradman Best (Newcastle) and several Melbourne Storm players, are also strong candidates for scoring tries, Young's exceptional home performance record gives him a clear advantage as the most likely first try scorer in this particular match."
+            },
+            {
+                "prediction_item": "2nd Most Likely Try Scorer",
+                "result": "Bradman Best",
+                "reasoning": "Based on the provided team lists and considering that Dominic Young has already been predicted, Bradman Best is the second most likely try scorer for the Newcastle Knights.  He plays centre, a position often involved in scoring tries. While the provided text doesn't offer specific performance statistics, his inclusion in the starting lineup suggests he is a key player for the Knights, making him a strong candidate for scoring a try."
+            },
+            {
+                "prediction_item": "3rd Most Likely Try Scorer",
+                "result": "Nick Meaney",
+                "reasoning": "Considering Dominic Young and Bradman Best are excluded,  Nick Meaney emerges as the third most likely try scorer for the Newcastle Knights vs Melbourne Storm match on July 12th, 2025.  Several sources indicate that Meaney will be starting at fullback for the Storm due to Ryan Papenhuyzen's injury.  He's proven himself a strong try-scoring option, with reports mentioning his recent scoring record and form, even while playing out of position. While other players like Grant Anderson and Jack Howarth also have potential, Meaney's consistent performance and starting position make him a statistically more likely third choice for try-scoring compared to others."
+            },
+            {
+                "prediction_item": "Match Winner",
+                "result": "Melbourne Storm",
+                "reasoning": "Multiple sources predict a Melbourne Storm victory in their match against the Newcastle Knights on July 12, 2025.  The reasoning consistently points to several key factors:\n\n* **Melbourne's superior form and position:** The Storm are a top-ranked team, currently leading the competition or vying for top position.  They are on a winning streak and demonstrate consistent strength in attack and defense. The Knights, in contrast, are struggling and are lower in the standings.\n* **Key player absences for Newcastle:** The Knights will be without their captain, Kalyn Ponga, for the remainder of the regular season which significantly weakens their team. This absence, combined with their overall inconsistency, makes it more difficult for them to compete with a high performing Storm side.\n* **Melbourne's depth and resilience:** Even with the absence of key players like Cam Munster (rested) and Ryan Papenhuyzen (calf injury, although some sources show him playing), the Storm have shown a remarkable ability to field strong replacement players, maintaining their strong performance. Their depth and experience allow them to compensate for missing players more effectively than the Knights can.\n* **Head-to-head record:** While Newcastle has won the last two home games against Melbourne, this factor is outweighed by the current form and overall strength of the Melbourne team. Most predictions highlight Melbourne's dominance in recent encounters overall.\n* **Betting odds:**  Betting odds overwhelmingly favor a Melbourne Storm victory, reinforcing the predictions from expert analysis. These odds reflect the perceived disparity in the teams' capabilities and current form. \n\nIn summary, despite Newcastle's home advantage and past victories at the stadium, the Melbourne Storm's superior form, depth, and the absence of key players for Newcastle make a Storm win the most likely outcome."
+            },
+            {
+                "prediction_item": "Match Winning Margin",
+                "result": "13+",
+                "reasoning": "The Melbourne Storm are predicted to win against the Newcastle Knights with a margin of 13 points or more.  This prediction is based on several factors:\n\n* **Melbourne Storm's Recent Form:** The Storm have shown consistent winning form in recent matches, as evidenced by their wins against the Cowboys, Sharks, Rabbitohs, and others.  Their performance demonstrates their strength and ability to dominate games. \n\n* **Newcastle Knights' Challenges:** The Knights are facing significant challenges, most notably the absence of their captain, Kalyn Ponga, for the remainder of the regular season. Ponga's absence is a considerable blow to their team's overall performance and leadership. \n\n* **Key Player Absences for the Storm:** While the Storm will be without Cam Munster (rested) and Ryan Papenhuyzen (calf injury),  their depth is strong enough to overcome these absences. The team has shown the capability to perform at a high level even with key players missing. Nick Meaney's performance in Papenhuyzen's absence is promising, and other players can step up. The overall strength of the Storm's team is still greater than the Knights' current roster.  \n\n* **Betting Odds:**  While I don't have access to real-time betting odds, the information provided indicated Storm were heavy favorites, suggesting an anticipated victory with a comfortable margin. \n\nIn summary, despite the Storm's key absences, their overall team strength, combined with the Knights' considerable handicap of losing their captain, makes a convincing victory for Melbourne with a significant margin highly likely."
+            },
+            {
+                "prediction_item": "Total Match Points",
+                "result": "Over 38.5",
+                "reasoning": "The prediction of over 38.5 total match points for the Newcastle Knights vs. Melbourne Storm NRL match on July 12, 2025, is based on several factors.  While Melbourne Storm is a strong team, they are missing key players like Cam Munster (rested) and Ryan Papenhuyzen (calf injury). This significantly weakens their attacking capabilities.  Furthermore, the Knights, despite their recent inconsistent form (showing both wins and losses against various opponents), will be playing at their home stadium, McDonald Jones Stadium, which should provide a boost to their performance and potentially their scoring ability.  Considering the likely impact of the missing Storm players and the home-ground advantage for Newcastle, a higher-scoring game is anticipated.  The recent scores from both teams show a capability for scoring above average points in a game, thus a total exceeding 38.5 points seems probable."
+            },
+            {
+                "prediction_item": "Total First Half Points",
+                "result": "Under 22.5",
+                "reasoning": "Several factors contribute to my prediction of under 22.5 total points in the first half of the Newcastle Knights vs. Melbourne Storm match.  Firstly, the significant disparity in team form and ladder positions is a major consideration. Melbourne Storm are a top-tier team, while the Newcastle Knights are struggling.  The Storm's strong defense, noted in multiple sources, suggests they will likely restrict the Knights' scoring opportunities. While the Knights may show effort and intent, their inconsistent performance and the absence of key players like Kalyn Ponga will likely hamper their ability to score early. \n\nSecondly, the historical data suggests a lower-scoring first half. Although the home team has won the last four encounters between these teams, the overall point totals in those matches are not available to me.  However, the general consensus is that Melbourne Storm's superior structure and controlled game approach will likely limit high-scoring first halves, even if they win the overall match.  The prediction models from various sources favor Melbourne by a significant margin, implying they are expected to control the game, which again points towards a lower-scoring first half.\n\nFinally, while specific first-half scoring trends for both teams are unavailable, the overall game prediction from multiple sources leans toward a lower total score.  Given the Storm's defensive prowess and the Knights' offensive struggles, a conservative estimate for the first half total points is under 22.5."
+            },
+            {
+                "prediction_item": "Total Second Half Points",
+                "result": "Over 38.5",
+                "reasoning": "Predicting the total points in the second half of an NRL match requires considering several factors.  While a precise prediction is impossible, a reasoned estimate can be made based on available information.\n\n**Team Form and Strength:** The Melbourne Storm, currently sitting second on the ladder, are a strong team with a high scoring potential.  Their recent form shows consistent wins. Although some key players may be rested or injured, their depth is impressive.  The Newcastle Knights, on the other hand, are struggling, currently sitting in 13th position with inconsistent form.  The absence of Kalyn Ponga significantly impacts their attacking capabilities.\n\n**Match Context:** This is a crucial match for both teams. The Storm need the win to stay close to the competition leaders. The Knights, meanwhile, are in a desperate situation and need to win to improve their chances of making the finals. The pressure on both teams could lead to a more open game in the second half, with increased scoring opportunities.\n\n**First Half Score:** The first half ended with the Knights leading 8-6. This suggests a relatively low-scoring, tight encounter in the opening stages, but with potential for higher scoring in the second half as both teams adjust strategies.\n\n**Past Encounters:** While the Storm historically dominate the Knights, Newcastle has won their last two home games against Melbourne. This adds a layer of unpredictability to the match.\n\n**Injuries and Player Form:** The absence of key players like Kalyn Ponga for the Knights is a substantial blow, impacting their offensive potential.  The return of Ryan Papenhuyzen for the Storm is beneficial.  Injuries to key players can lead to adjustments in game plans impacting the overall points scored.\n\n**Overall:**  Considering the Storm's offensive prowess, their need for a win, and the likelihood of a more open game in the second half, alongside the Knights' defensive vulnerabilities, a prediction of 'Over 38.5' total points in the second half appears reasonable.  The first half suggests a tighter game, but the second half could see an increase in the scoring pace.  However, this is still a prediction and could vary greatly."
+            },
+            {
+                "prediction_item": "First Team to Score a Try",
+                "result": "Melbourne Storm",
+                "reasoning": "Based on the provided information, I predict the Melbourne Storm will score the first try. My reasoning is multifaceted:\n\n* **Team Form and Strength:**  The Melbourne Storm are currently in second place on the NRL ladder, demonstrating strong overall performance. While they are missing key players like Cam Munster (rested) and initially Ryan Papenhuyzen (calf), they still possess a formidable squad.  The Knights, on the other hand, are in 13th place and are without their captain, Kalyn Ponga, for the remainder of the season. This puts them at a significant disadvantage.\n\n* **Key Player Returns:**  The Storm have some key players returning from injury or Origin duties, bolstering their strength. Harry Grant and Stefano Utoikamanu were added to the starting line-up, improving their forward pack significantly.  This is a notable advantage.\n\n* **Head-to-Head Record:** Although the Knights have won their last two games against the Storm at McDonald Jones Stadium, the Storm historically dominate the head-to-head, having won 12 of their past 14 games against the Knights. This historical trend suggests the Storm have a strong edge.\n\n* **Offensive Prowess:** The Storm have demonstrated high offensive capability, scoring 147 points in their past five games. This suggests a higher likelihood of them scoring early.\n\n* **Match Report (Partial):** While the match is ongoing at the time of this response, partial match information shows that the Storm scored a try in the final play of the first half (Eli Katoa), giving them an early lead. This further supports the prediction that the Storm are more likely to score the first try."
+            },
+            {
+                "prediction_item": "First Player to Score a Try",
+                "result": "Kane Bradley",
+                "reasoning": "Based on the provided information, several factors point to Kane Bradley as the most likely Melbourne Storm player to score the first try against the Newcastle Knights.  Source [9] reports that Kane Bradley scored a try in the 49th minute of the match, making a spectacular catch despite a heavy landing. While this is from a past game, his performance demonstrates his ability to capitalize on opportunities near the try line.  Furthermore, the Melbourne Storm's predicted strong performance overall (context information and Source [9] highlight their scoring capabilities in recent matches), increases the likelihood that their players, including Bradley, will have scoring opportunities. Although specific starting lineups aren't detailed in all sources, Bradley's inclusion in the previous game's try strongly suggests his continued involvement in scoring plays."
+            },
+            {
+                "prediction_item": "Last Team to Score a Try",
+                "result": "Melbourne Storm",
+                "reasoning": "Based on the provided sources, several factors point towards the Melbourne Storm being the last team to score a try in the Newcastle Knights vs. Melbourne Storm match on July 12th, 2025.  These factors include:\n\n* **Team Form and Standing:** Melbourne Storm is consistently ranked higher than Newcastle Knights.  Multiple sources highlight the Storm's superior position on the NRL ladder and their recent winning streak. The Knights, on the other hand, are struggling and are positioned near the bottom of the table. This suggests a likely dominance by the Storm, increasing their chances of scoring the last try.  \n\n* **Key Player Returns for Melbourne:** The Storm are welcoming back key players from injury and Origin duty, including Ryan Papenhuyzen at fullback. This strengthens their offensive capabilities significantly. Although there's some uncertainty about the availability of other Origin players (Munster, Grant, Loiero), their presence on the bench adds to the Storm's overall depth and potential scoring power.\n\n* **Newcastle's Injuries and Key Absences:** The Knights are still without their key player, Kalyn Ponga. This absence significantly weakens their attacking potential. While Greg Marzhew's return is a positive, it doesn't compensate for the overall disparity in team strength and key player availability.\n\n* **Game Narrative from a Similar Match:** While not explicitly stated, the match report from a previous game suggests a scenario where the leading team conceded late tries to the opposing team. This pattern might potentially repeat in the upcoming match.\n\n* **Betting Odds:** The betting odds heavily favor the Melbourne Storm, reflecting the general expectation of a Storm victory. While not definitive proof, this information reinforces the likelihood of them scoring the last try, suggesting that they are anticipated to control the game\u2019s tempo and outcome.\n\nWhile these are strong indicators, predicting the exact sequence of events in a sporting match is inherently difficult.  Unexpected factors can always influence the outcome. However, based on the available information, the Melbourne Storm appear to have a higher probability of scoring the last try."
+            },
+            {
+                "prediction_item": "Last Player to Score a Try",
+                "result": "Kane Bradley",
+                "reasoning": "Based on the provided information from multiple sources,  the Melbourne Storm are predicted to win the match against the Newcastle Knights.  Several sources mention Kane Bradley's strong performance in recent games, including a spectacular try where he made a high catch and grounded the ball despite a hard landing.  Given that the Melbourne Storm are predicted to score last, and considering Bradley's recent form and ability to score tries, he is the most likely candidate to score the final try for Melbourne."
+            }
+        ],
+        "suggested_multi_bets": [
+            {
+                "name": "Storm Domination",
+                "combination": [
+                    "Melbourne Storm Match Winner",
+                    "Melbourne Storm Winning Margin 13+",
+                    "Total Match Points Over 38.5"
+                ],
+                "rationale": "This multi-bet focuses on a decisive Melbourne Storm victory, capitalizing on their strong form and historical dominance against Newcastle.  The large winning margin and high total points reflect the expectation of a one-sided contest."
+            },
+            {
+                "name": "Storm's Scoring Prowess",
+                "combination": [
+                    "Melbourne Storm First Team to Score a Try",
+                    "Kane Bradley First Player to Score a Try",
+                    "Melbourne Storm Last Team to Score a Try"
+                ],
+                "rationale": "This multi-bet highlights Melbourne's expected dominance in scoring, focusing on specific player and team achievements throughout the match. Kane Bradley's high probability of scoring first and last adds value to this combination."
+            },
+            {
+                "name": "Balanced Approach",
+                "combination": [
+                    "Dominic Young 1st Most Likely Try Scorer",
+                    "Melbourne Storm Match Winner",
+                    "Total First Half Points Under 22.5"
+                ],
+                "rationale": "This multi-bet balances individual player performance (Dominic Young's try scoring) with team outcome (Melbourne Storm victory) and a lower-scoring first half. This provides a more varied and potentially higher-payout option compared to solely focusing on a Melbourne Storm victory."
+            }
+        ]
+    },
+    {
+        "match_details": {
+            "Home Team": "St. George Illawarra Dragons",
+            "Away Team": "Sydney Roosters",
+            "date of match": "2025-07-12"
+        },
+        "predictions": [
+            {
+                "prediction_item": "1st Most Likely Try Scorer",
+                "result": "Valentine Holmes",
+                "reasoning": "Based on the provided text, Valentine Holmes is a strong candidate for the first try scorer in the St. George Illawarra Dragons vs. Sydney Roosters match on July 12, 2025.  Several sources mention him as a key player for the Dragons, highlighting his consistent performance and inclusion in the starting lineup for Round 19 ([12]). His selection in the team despite being the only Origin representative for the Dragons, further indicates his importance and likely significant game time ([12]).  While predicting the first try scorer with certainty is impossible, Holmes' established position and recent performance makes him a statistically likely candidate."
+            },
+            {
+                "prediction_item": "2nd Most Likely Try Scorer",
+                "result": "Sione Finau",
+                "reasoning": "While several sources mention Valentine Holmes as a likely try scorer, the question specifies that the prediction must be for a different player.  Considering the provided team lineups (Sources [3], [6], [7], [10]), Sione Finau is a strong candidate for the second most likely try scorer for the St. George Illawarra Dragons. He plays winger, a position often involved in scoring tries. Although past performance data across all sources is limited, his position and the Dragons' need for points make him a plausible second choice after Valentine Holmes.  The lack of detailed statistical analysis in the sources prevents a more precise prediction, but based on available information, Sione Finau presents a reasonable prediction for second most likely try scorer."
+            },
+            {
+                "prediction_item": "3rd Most Likely Try Scorer",
+                "result": "Tyrell Sloan",
+                "reasoning": "While predicting the third most likely try scorer requires speculation due to the unpredictable nature of rugby league,  several factors point towards Tyrell Sloan.  He plays winger for the Dragons, a position often involved in try scoring.  Although the provided text doesn't offer specific try-scoring statistics for this particular match or this season,  general team news mentions that Sloan is playing, he is in a position conducive to scoring tries, and that the Dragons, although underperforming, still have a chance of scoring tries against the Roosters.  The other two predicted try scorers, Valentine Holmes and Sione Finau, are also wingers on the Dragons team, making them strong candidates. However, Sloan's position and the lack of other stronger candidates from the sources provided makes him a plausible choice for the third-most likely try scorer. It is important to note that this prediction has a high degree of uncertainty due to the limitations of the available information."
+            },
+            {
+                "prediction_item": "Match Winner",
+                "result": "Sydney Roosters",
+                "reasoning": "Predicting the outcome of an NRL match requires considering various factors, and unfortunately, the provided text does not offer sufficient details on current team form, injuries, or player statistics to make a data-driven prediction.  The sources mention the match date and time, but lack essential information for a precise prediction.  Therefore, this prediction relies on general knowledge and past performance.  The Sydney Roosters have historically been a strong team in the NRL, and while recent form is unavailable from the provided texts, their overall track record suggests a higher likelihood of victory against the St. George Illawarra Dragons. This prediction is inherently uncertain due to the lack of specific data on current team conditions.  A more informed prediction would require access to up-to-date team news, player form analysis, and head-to-head statistics from reliable sports news sources."
+            },
+            {
+                "prediction_item": "Match Winning Margin",
+                "result": "13+",
+                "reasoning": "The Sydney Roosters are predicted to win by a margin of 13 points or more against the St. George Illawarra Dragons on July 12th, 2025. This prediction is based on several factors:\n\n* **Recent Form:** While the Roosters suffered a defeat last week against the Wests Tigers in the absence of their Origin players, they are expected to have those players back for this match.  Their recent form shows a pattern of strong performance with three wins out of their last five games, showcasing their potential for a comeback.\n\n* **Return of Key Players:** The return of their State of Origin stars \u2013 Robert Toia, Lindsay Collins, Spencer Leniu, Connor Watson, and Angus Crichton \u2013 significantly bolsters their squad.  Additionally, the return of Victor Radley after a concussion absence adds considerable strength to their forward pack.  Sam Walker's return after injury is a major boost to their attacking prowess.\n\n* **Head-to-Head:** Although specific past match results are not explicitly detailed in the provided text,  the fact that the Roosters have already beaten the Dragons earlier this year suggests a potential for a repeat victory.\n\n* **Team Strength:** The Roosters lineup appears to be stronger overall, featuring high-performing players such as James Tedesco, Daniel Tupou, and Mark Nawaqanitawase. Their attacking capabilities, especially with Sam Walker back, are expected to overwhelm the Dragons' defense.\n\n* **Betting Odds:** While not definitive, the odds provided by betting sites generally favor the Roosters, further suggesting a comfortable victory."
+            },
+            {
+                "prediction_item": "Total Match Points",
+                "result": "Over 42.5",
+                "reasoning": "Predicting the total match points for the St. George Illawarra Dragons vs. Sydney Roosters NRL match on July 12th, 2025, requires considering both teams' recent form.  While historical data shows a significant advantage for the Roosters in head-to-head matchups, recent performances suggest a potentially closer contest. The Roosters' recent form has been inconsistent, with both high-scoring wins and losses.  Their attack is capable of producing high point totals, but their defense shows vulnerabilities.  The Dragons, while historically less successful against the Roosters, have shown moments of strong attacking play, particularly highlighted by individual player performances. However, defensive concerns remain a persistent issue for them. Considering this, a high-scoring game is likely, and I predict a total points score exceeding 42.5. The inconsistency of both teams makes it difficult to predict the exact outcome. A small margin of victory for either side is possible, resulting in the final score being in the 40-50 range."
+            },
+            {
+                "prediction_item": "Total First Half Points",
+                "result": "Over 22.5",
+                "reasoning": "Predicting the total points in the first half of an NRL match requires considering various factors.  While a precise prediction is impossible, a reasoned estimate can be made based on available data. \n\nThe Sydney Roosters, despite a recent upset loss, have shown generally strong form and boast key players returning from injury for this match.  The return of Sam Walker, Billy Smith, and Victor Radley significantly boosts their attacking potential. Historically, the Roosters have dominated this fixture, and their recent games have often seen high-scoring first halves, supported by the fact that in their last ANZAC Day match against the Dragons, Sandon Smith alone scored 16 first-half points.  This suggests a propensity for early points.  \n\nThe St. George Illawarra Dragons are currently struggling with consistency, having lost three of their last four games.  However,  they possess players capable of scoring points, and playing at home might give them an added boost.  Their recent matches have also frequently exceeded 47.5 total points, suggesting potentially high-scoring first halves are possible.\n\nConsidering the Roosters' strong historical dominance in this fixture, the return of key players and their high-scoring tendencies, combined with the possibility of a relatively high-scoring game for the Dragons, an over/under prediction of over 22.5 points in the first half seems reasonable.  The actual score could easily fall higher or lower, depending on numerous factors such as injuries, refereeing decisions, and individual player performance.  This prediction assumes the overall competitiveness of the game will result in a higher scoring first half."
+            },
+            {
+                "prediction_item": "Total Second Half Points",
+                "result": "Over 42.5",
+                "reasoning": "Predicting the exact total points in the second half of an NRL match is inherently difficult due to the unpredictable nature of the sport.  However, a reasoned prediction can be made by considering several factors.  The Sydney Roosters are predicted to win this match based on several sources indicating their superior form and head-to-head record against the St. George Illawarra Dragons. The return of key players like Sam Walker for the Roosters significantly boosts their attacking potential. While the Dragons have shown some resilience at home, their recent form suggests inconsistency.  The strong likelihood of a Roosters victory, coupled with the potential for a higher-scoring game due to the return of key players and the competitive nature of the rivalry, suggests a total exceeding 42.5 points in the second half is more probable than not.  The high-scoring nature of recent encounters between these teams further supports this prediction.  It's important to note that this is a prediction and the actual outcome may vary significantly."
+            },
+            {
+                "prediction_item": "First Team to Score a Try",
+                "result": "St. George Illawarra Dragons",
+                "reasoning": "Predicting the first team to score a try in an NRL match requires considering various factors, and unfortunately, the provided text does not offer real-time game updates or detailed player form analysis necessary for an accurate prediction.  However, we can make an educated guess based on available information.  The sources mention significant changes to the St. George Illawarra Dragons' roster, including the arrival of experienced players like Clint Gutherson and Damien Cook.  These additions suggest a potential improvement in their attacking capabilities. While the Sydney Roosters also have talented players, the Dragons' revamped team could give them an early advantage in scoring the first try.  This prediction is speculative and based on limited information; the actual outcome of the match may differ significantly.  To make a more accurate prediction, real-time team news, player form, and lineup information would be required. "
+            },
+            {
+                "prediction_item": "First Player to Score a Try",
+                "result": "Tyrell Sloan",
+                "reasoning": "Predicting the first try scorer requires speculation, as pre-match lineups and player form are not definitively available through the provided text.  However, given that the St. George Illawarra Dragons are predicted to score first, and Tyrell Sloan is listed among the Dragons' top performers with 11 tries in the 2025 season (source [6]), he presents a strong possibility as the first to score.  His past performance indicates a high likelihood of scoring a try, especially if the team manages an early attacking opportunity.  It is important to note that this is a prediction based on limited data, and other players could equally score first."
+            },
+            {
+                "prediction_item": "Last Team to Score a Try",
+                "result": "Sydney Roosters",
+                "reasoning": "Predicting the last team to score a try in an NRL match requires considering various factors, including team form, attacking capabilities, and potential defensive strategies.  While comprehensive team news and detailed player form data for the 2025-07-12 match between St. George Illawarra Dragons and Sydney Roosters is not available in the provided text, some insights can be extracted to make a reasoned prediction. \n\nThe sources mention that the Sydney Roosters have experienced some player movement and injuries impacting their middle-third strength. However, they still possess established players like James Tedesco, who is a consistent try-scorer.  The sources also indicate that the Dragons are in a rebuilding phase, despite acquiring some experienced players.  \n\nGiven that the Roosters typically have a stronger attacking line-up historically, even with some of their current challenges, and are a more established team in terms of overall performance, it's reasonable to predict that they are more likely to maintain scoring opportunities throughout the match. Therefore, I predict the Sydney Roosters will be the last to score a try. This prediction is based on overall team strength and historical performance rather than detailed current player form data, which isn't provided in the available sources."
+            },
+            {
+                "prediction_item": "Last Player to Score a Try",
+                "result": "Daniel Tupou",
+                "reasoning": "Based on the provided sources, the Sydney Roosters' team list for the match against the St. George Illawarra Dragons on July 12th, 2025 includes Daniel Tupou as a winger.  While predicting the last try scorer is inherently difficult and relies on many factors including game momentum and specific match events, the assumption that the Roosters will score last, combined with Tupou's inclusion in the starting lineup, makes him a reasonable prediction.  Wingers often have opportunities for late tries due to their position on the field and potential for breakaway plays.  No other information in the sources provides a basis for selecting a different Roosters player as a stronger candidate for the last try."
+            }
+        ],
+        "suggested_multi_bets": [
+            {
+                "name": "Roosters Domination",
+                "combination": [
+                    "Match Winner: Sydney Roosters",
+                    "Match Winning Margin: 13+",
+                    "Total Match Points: Over 42.5"
+                ],
+                "rationale": "This multi-bet focuses on a decisive Roosters victory, reflecting their strong historical dominance over the Dragons and expert predictions favoring a significant win margin and high-scoring game.  The Roosters' superior team strength and scoring potential support this combination."
+            },
+            {
+                "name": "High-Scoring Affair with Roosters Win",
+                "combination": [
+                    "Match Winner: Sydney Roosters",
+                    "Total Match Points: Over 42.5",
+                    "Total First Half Points: Over 22.5"
+                ],
+                "rationale": "This multi-bet anticipates a high-scoring game with the Roosters emerging victorious.  A fast start by both teams, resulting in a high first-half score, is predicted, followed by a high scoring second half ultimately leading to a Roosters win."
+            },
+            {
+                "name": "Sloan's Impact and Roosters' Triumph",
+                "combination": [
+                    "First Player to Score a Try: Tyrell Sloan",
+                    "Last Team to Score a Try: Sydney Roosters",
+                    "Match Winner: Sydney Roosters"
+                ],
+                "rationale": "This multi-bet combines a prediction for Tyrell Sloan to score first, the Roosters to score last, and the Roosters ultimately winning the match.  This scenario allows for a competitive game where the Dragons score early but the Roosters demonstrate their resilience and scoring ability to secure the victory."
+            }
+        ]
+    },
+    {
+        "match_details": {
+            "Home Team": "North Queensland Cowboys",
+            "Away Team": "Canterbury-Bankstown Bulldogs",
+            "date of match": "2025-07-12"
+        },
+        "predictions": [
+            {
+                "prediction_item": "1st Most Likely Try Scorer",
+                "result": "Valentine Holmes",
+                "reasoning": "Predicting the first try scorer with certainty is impossible without access to real-time team lineups and in-game events.  However, based on the provided text, Valentine Holmes is a consistent performer for the North Queensland Cowboys and is mentioned among the team's fan favorites alongside other key players like Jeremiah Nanai and Murray Taulagi. His strong history of try-scoring makes him a statistically likely candidate for the first try.  This prediction is based on publicly available information and past performance; there is no guarantee that Holmes will score first, or even at all. The actual outcome will depend on various factors such as the match dynamics, individual player form on the day, and opposition defense."
+            },
+            {
+                "prediction_item": "2nd Most Likely Try Scorer",
+                "result": "Jacob Kiraz",
+                "reasoning": "Based on the provided information, Jacob Kiraz is the second most likely try scorer for the Canterbury-Bankstown Bulldogs in their match against the North Queensland Cowboys on July 12th, 2025.  My reasoning is as follows:\n\n* **Excellent Recent Form:** Source [4] highlights that Kiraz has scored nine tries in his last six games played in Queensland. This demonstrates exceptional try-scoring ability specifically in the location of this match.\n\n* **Team Lineup:** Source [2] confirms Kiraz's inclusion in the Bulldogs' starting lineup as a winger, a position known for high try-scoring potential.\n\n* **Opponent's Weaknesses:** Source [4] points out that the Cowboys have the worst defensive record in the 2025 NRL season, making them vulnerable to the Bulldogs' attacking prowess, increasing the likelihood of multiple tries being scored.\n\n* **Alternative to Holmes:** The prompt specifically requires a prediction different from Valentine Holmes.  Kiraz perfectly fulfills this requirement.\n\nWhile other players could potentially score tries, Kiraz's recent performance in Queensland and his starting position give him a significant edge in the probability of scoring."
+            },
+            {
+                "prediction_item": "3rd Most Likely Try Scorer",
+                "result": "Jeremiah Nanai",
+                "reasoning": "While predicting the third most likely try scorer requires speculation due to the inherent unpredictability of the game,  I've considered several factors from the provided text to arrive at this prediction.  Valentine Holmes and Jacob Kiraz are excluded as per the prompt.  The sources mention several players in strong form and expected to feature prominently in the match.  Tom Dearden is highlighted due to his recent Origin performance, but he is likely to be a top contender for try scorer.  Considering other strong players, Jeremiah Nanai is a key player for the Cowboys and given the team's recent form and their need for a win,  he's a strong candidate for a try. While there is no definitive prediction in the data, this is a reasoned choice based on available information about team news and player performance."
+            },
+            {
+                "prediction_item": "Match Winner",
+                "result": "Bulldogs",
+                "reasoning": "Based on the provided information, the Canterbury-Bankstown Bulldogs are predicted to win against the North Queensland Cowboys on July 12th, 2025.  Several factors contribute to this prediction:\n\n* **Recent Form:** While the Bulldogs have had recent losses, their overall form (LWWLL) shows more consistency than the Cowboys (LLLWL), who have a string of losses, including significant point differentials. The Cowboys' recent performance against top-eight teams is particularly concerning, having lost their last six matches.\n* **Head-to-Head:** Although the Cowboys have a slightly better head-to-head record overall, the Bulldogs' recent performances indicate a shift in momentum.  The past results may not fully reflect current team dynamics.\n* **Team Strength:** The Bulldogs currently hold a higher position on the NRL ladder (3rd compared to the Cowboys' 12th), suggesting superior overall team strength and consistency throughout the season. The source mentions the Cowboys having conceded more points than any other side in 2025 which is a major concern.\n* **Key Players:** While both teams have key players returning from Origin duty, the Bulldogs' return of their captain, Stephen Crichton, seems particularly impactful, influencing the team's structure. The Cowboys' injury situation (McIntyre, Bateman) also adds to their challenges.\n* **Prediction Source:** A specific prediction from one source points to a Bulldogs victory by 12 points.  This prediction aligns with the overall assessment of team form and standings. \n\nIt's important to note that this prediction is based on available information up to July 9th, 2025 and unforeseen circumstances such as injuries or unexpected shifts in team performance could change the outcome.  The game is expected to be competitive, but the Bulldogs' current form and ladder position give them a significant edge."
+            },
+            {
+                "prediction_item": "Match Winning Margin",
+                "result": "13+",
+                "reasoning": "My prediction for the Bulldogs winning margin is 13+ points.  This prediction is based on several factors gleaned from the provided sources:\n\n* **Form:** The Bulldogs, while having lost their last two games, were competitive against strong opponents. Their recent losses were by narrow margins (2 and 4 points), suggesting a strong team. Conversely, the Cowboys have a poor recent record, losing heavily in their last two matches and having lost all six of their last games against top-eight teams. The Cowboys' last five games show a significant inconsistency in performance (LLLWL).  The Bulldogs' last five (LWWLL) show more consistency and strength. This form differential strongly suggests a significant win for the Bulldogs.\n* **Head-to-Head:** While the Cowboys have a slightly better historical head-to-head record, the most recent encounters were a year ago. Current form is a much better indicator of likely outcome. \n* **Team News:** Although both teams have players returning from Origin duty, the sources highlight the Bulldogs\u2019 stronger squad and the Cowboys\u2019 injury concerns impacting their forward pack.  The Bulldogs are also likely to benefit from the return of their captain. \n* **Cowboys\u2019 Defensive Weakness:** The Cowboys have the worst defensive record in the league in 2025, having conceded more points than any other team. Against a potent Bulldogs attack, this defensive vulnerability could lead to a substantial points difference. \n* **Expert Prediction:** One source explicitly predicts a 12-point victory for the Bulldogs, supporting the notion of a comfortable win.  My prediction of 13+ accounts for the possibility of the Bulldogs exceeding this prediction. \n\nConsidering these factors collectively, the likelihood of a comfortable Bulldogs victory exceeding 12 points is significant. Therefore, I predict a winning margin of 13+ points for the Bulldogs."
+            },
+            {
+                "prediction_item": "Total Match Points",
+                "result": "Under 48.5",
+                "reasoning": "Based on the available data, I predict the total match points for the North Queensland Cowboys vs. Canterbury-Bankstown Bulldogs game on July 12th, 2025 will be Under 48.5. My reasoning is as follows:\n\n* **Recent Form:** The Cowboys have shown inconsistency, alternating between wins and losses, and have a concerning record against top-eight teams, losing their last six matches against such opponents. The Bulldogs, while also having some losses, appear to be in better form, showcasing more consistent performances.  Their recent wins against the Rabbitohs and Eels, and narrow losses to strong teams like the Broncos and Panthers, point to a competitive and improving team.\n\n* **Head-to-Head:** While the Cowboys have won three of the last five matches against the Bulldogs, these past results do not fully reflect the current form of both teams.  The Bulldogs' recent improvement suggests a shift in the balance of power between the two sides.\n\n* **Betting Odds:** Several sportsbooks show odds favoring the Bulldogs to win, and the over/under for total points is often set around 48.5. The fact that 'Under 48.5' is frequently listed as a viable bet indicates that the experts expect a lower-scoring game.\n\n* **Predicted Scores:**  Multiple prediction models suggest a relatively low-scoring game, with the Bulldogs predicted to win by a comfortable margin, but not exceeding a high point total for the match. These predictions support the 'Under 48.5' prediction.\n\nConsidering the Cowboys' struggles against stronger teams, the Bulldogs' improved recent form, and the betting odds and predicted scores, an under 48.5 points total is the most likely outcome.  It is important to note that this is a prediction and the actual outcome may vary."
+            },
+            {
+                "prediction_item": "Total First Half Points",
+                "result": "Over 24.5",
+                "reasoning": "Predicting the total first-half points for the North Queensland Cowboys vs. Canterbury-Bankstown Bulldogs match requires considering several factors.  Both teams have key players returning from State of Origin duty, which could impact their early game performance.  The Bulldogs, currently sitting higher on the ladder, have shown offensive capability but also defensive inconsistencies.  The Cowboys, while lower on the ladder, could exhibit a strong home-ground advantage and fight to keep the game close. While the Bulldogs are favored to win,  their recent inconsistency makes a blowout less certain. This suggests a higher scoring first half than might be typical, hence the prediction 'Over 24.5' points.  The under/over lines from betting sites are also considered, offering another data point for this prediction.  However, this prediction is subject to change due to last-minute injuries, unexpected player performances, and other factors that might impact the game."
+            },
+            {
+                "prediction_item": "Total Second Half Points",
+                "result": "Over 42.5",
+                "reasoning": "Predicting the total points in the second half of an NRL match requires considering various factors.  While a precise prediction is impossible, a reasoned estimate can be made based on available data.\n\nThe Canterbury Bulldogs are a high-scoring team currently sitting 3rd on the ladder, having scored an average of over 22 points per game.  Their recent form shows some inconsistency, with back-to-back losses, but they also boast strong attacking players like Matt Burton and Jacob Kiraz.  Their ability to score points, especially given the Cowboys' defensive vulnerabilities (having conceded the most points in the league in 2025), suggests a potentially high-scoring second half from the Bulldogs.\n\nThe North Queensland Cowboys are currently in 12th place, showing inconsistency and a weak defense. While they have shown the ability to compete against top teams in the past, their recent form indicates a struggle.  Their attack could contribute to some points in the second half, but their defensive performance will likely determine their points against.\n\nConsidering both teams\u2019 attacking potential and the Cowboys' defensive weaknesses, I predict a total points over 42.5 in the second half.  The game could potentially open up, leading to a higher score. The fact that key players from both teams are returning from Origin duty could also influence the intensity and scoreline, as they may be keen to make a statement.\n\nIt's important to note that this is a prediction based on current form and available information; unforeseen events during the game can significantly alter the final score."
+            },
+            {
+                "prediction_item": "First Team to Score a Try",
+                "result": "Canterbury-Bankstown Bulldogs",
+                "reasoning": "Based on the provided information, I predict the Canterbury-Bankstown Bulldogs will score the first try. My reasoning is multi-faceted:\n\n* **Recent Form:** The Bulldogs are currently ranked higher than the Cowboys and have demonstrated stronger recent form.  While the Cowboys put up a fight against the Storm, they ultimately lost, and their defensive record is the worst in the league. The Bulldogs, despite losing their 18-0 lead against the Broncos, are a potent attacking side, and this bounce-back potential increases their likelihood of scoring first.\n\n* **Head-to-Head Record:** While the head-to-head record is nearly even, the Cowboys' home-field advantage is less significant due to their poor recent performance at home. The Bulldogs have a strong away record this season, further bolstering their chances. \n\n* **Key Players:**  The return of key players for both sides from Origin duty influences the prediction.  The impact of the players returning for the Bulldogs (Crichton, Burton, King, Mann) is expected to be more significant due to their roles within the team than the returning Cowboys players.  Additionally, Jacob Kiraz's strong recent try-scoring record (nine tries in his last six games in Queensland) significantly enhances the Bulldogs' offensive threat.\n\n* **Betting Odds:** Although not the sole deciding factor, the betting odds available favor the Bulldogs, further reinforcing this prediction. While it's crucial to note that betting odds don't guarantee outcomes, they reflect a collective assessment of team performance and potential.\n\nIn summary, a combination of recent form, head-to-head history, key player impact, and betting odds leads me to predict the Canterbury-Bankstown Bulldogs will score the first try in the match."
+            },
+            {
+                "prediction_item": "First Player to Score a Try",
+                "result": "Jacob Kiraz",
+                "reasoning": "Based on the provided team lists for the Canterbury-Bankstown Bulldogs (source [4]), Jacob Kiraz is named in the starting lineup for the match against the North Queensland Cowboys on July 12th, 2025.  While I cannot predict with certainty who will score the first try, Kiraz's inclusion in the starting team, particularly in a position that often contributes to tries (wing), makes him a strong candidate for the first try scorer for the Bulldogs.  The information provided does not offer insights into individual player form beyond team selections,  but Kiraz's starting position provides a reasonable basis for this prediction."
+            },
+            {
+                "prediction_item": "Last Team to Score a Try",
+                "result": "Canterbury-Bankstown Bulldogs",
+                "reasoning": "Several sources predict a Canterbury-Bankstown Bulldogs victory, citing their superior form and the Cowboys' struggles, particularly against top-eight teams.  The Bulldogs' key players, Crichton and Burton, are returning from Origin duty, bolstering their attacking capabilities. While the Cowboys have a strong home record, their recent form shows a string of losses and a weak defense, making them vulnerable to the Bulldogs' potent attack. Although some sources suggest a closer match than the betting odds indicate, the overall consensus points towards a Bulldogs win, making them more likely to score the last try."
+            },
+            {
+                "prediction_item": "Last Player to Score a Try",
+                "result": "Lachlan Galvin",
+                "reasoning": "Predicting the last try scorer with certainty is impossible due to the unpredictable nature of live sporting events.  However, given the context that the Canterbury-Bankstown Bulldogs are predicted to score last, and considering the need to select a player from that team,  I will base my prediction on recent team news and form, focusing on players known for their late-game impact. While specific lineup information is not provided in the source documents beyond general roster information, Lachlan Galvin is a plausible candidate given his inclusion in recent interchange lists and his potential to contribute in both attack and defense situations late in the match.  The prediction is entirely speculative, as the actual last try scorer could be any eligible player for the Bulldogs."
+            }
+        ],
+        "suggested_multi_bets": [
+            {
+                "name": "Bulldogs Domination",
+                "combination": [
+                    "Match Winner: Bulldogs",
+                    "Match Winning Margin: 13+",
+                    "Total Match Points: Under 48.5"
+                ],
+                "rationale": "This multi-bet focuses on a decisive Bulldogs victory with a relatively low-scoring game.  The prediction aligns with several sources suggesting a strong Bulldogs win and a lower total match points."
+            },
+            {
+                "name": "Kiraz & Bulldogs Triumph",
+                "combination": [
+                    "First Player to Score a Try: Jacob Kiraz",
+                    "Match Winner: Bulldogs",
+                    "Last Team to Score a Try: Canterbury-Bankstown Bulldogs"
+                ],
+                "rationale": "This multi-bet highlights Jacob Kiraz's predicted impact, combined with a comprehensive Bulldogs win, controlling the scoring at both ends of the match."
+            },
+            {
+                "name": "High-Scoring Second Half & Bulldogs Win",
+                "combination": [
+                    "Match Winner: Bulldogs",
+                    "Total First Half Points: Over 24.5",
+                    "Total Second Half Points: Under 42.5"
+                ],
+                "rationale": "This multi-bet predicts a Bulldogs win, with a higher scoring first half and a lower scoring second half. This is a less conventional approach, banking on a strong start from one team that the Bulldogs would subsequently control."
+            }
+        ]
+    },
+    {
+        "match_details": {
             "Home Team": "New Zealand Warriors",
             "Away Team": "Wests Tigers",
             "date of match": "2025-07-13"
